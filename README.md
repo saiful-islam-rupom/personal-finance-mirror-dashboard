@@ -1,2 +1,2 @@
-# personal-finance-mirror-dashboard
+# Personal Finance Mirror: An interactive Power BI Dashboard
 "Personal Finance Mirror" is a personal expense tracking dashboard built with Power BI that reflects your financial behavior through clean, interactive visualizations. It helps users understand where their money goes, identify spending patterns, offers a practical solution for personal budget analysis, and supports better financial decision-making.
